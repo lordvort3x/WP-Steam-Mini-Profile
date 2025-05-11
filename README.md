@@ -72,6 +72,17 @@ Image for illustration purposes only.
 ## Development
 
 ### Files Overview
+
+```steam-profile-plugin/
+├── steam-profile-plugin.php
+├── includes/
+│   └── steam-api.php
+├── assets/
+│   ├── style.css
+│   └── script.js
+```
+
+
 ``` steam-profile-plugin.php```: Main plugin file, handles initialization and shortcode.
 
 ```includes/steam-api.php```: Handles communication with the Steam Web API.
